@@ -1,7 +1,7 @@
 {
   "auth": "Michelle Bu, Eric Zhang, updated by edwinandeka",
   "name": "peerjs-eka",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PeerJS server component",
   "main": "lib/index.js",
   "bin": {
